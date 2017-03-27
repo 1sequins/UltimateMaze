@@ -9,15 +9,15 @@ is stars and sand clocks which increases the score and time respectively. In tot
 The programming is done in C#. Unity Standard Assets and Other Free assets available on unity assets 
 store are used in making the game.
 
-##Setup project in Unity :
+# Setup project in Unity :
 `git clone https://github.com/aishmittal/UltimateMaze.git`
 Open the cloned repository in unity.
 
-##Download Windows version :
+# Download Windows version :
 You can download the Windows Version of the game from this [link](https://drive.google.com/open?id=0B--VzLkl2t5kSkdKaHNpRVM4bDg).
 download this zip file and play the game clicking _UltimateMaze.exe_
 
-##Gameplay:
+# Gameplay:
 ####  Main Menu
 ![Main Menu](/Screenshots/screenshot1.jpg)
 ####  Level Menu
