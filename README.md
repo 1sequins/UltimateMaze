@@ -11,6 +11,7 @@ store are used in making the game.
 
 # Setup project in Unity :
 `git clone https://github.com/aishmittal/UltimateMaze.git`
+
 Open the cloned repository in unity.
 
 # Download Windows version :
