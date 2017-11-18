@@ -40,5 +40,7 @@ download this zip file and play the game clicking _UltimateMaze.exe_
 ####  Instructions
 ![Instructions](/Screenshots/screenshot3.jpg)
 
-
+ ## Thanks
+Feel free to post issues if you find any problem or contact me [Aishwarya Mittal](https://www.facebook.com/aishhmittal)<br>
+©[BCD-3 License](https://github.com/aishmittal/UltimateMaze/blob/master/LICENSE)
 
